@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "yagocarballo",
+    "longName": "Test Keyboard",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Test Keyboard",
+    "uuid": "730da375-f4ff-4122-b000-692438ee0f38",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
