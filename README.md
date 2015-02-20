@@ -1,3 +1,6 @@
+![Pebble Keyboard Header](http://yagocarballo.me/img/portfolio/pebble_keyboard.png)
+
+
 # PebbleKeyboardTest
 A SwipeBoard Implementation for the Pebble Watch
 
